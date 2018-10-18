@@ -1,0 +1,9 @@
+.profile{
+    max-height: 250px;
+    max-width: 500px;
+}
+#document{
+    max-width: 900px;
+    margin: 0 auto;
+    padding-top:10px;
+}
